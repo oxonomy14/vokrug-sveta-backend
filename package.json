@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-ingenium-life-ua",
+  "name": "vokrug-sveta-backend",
   "version": "1.0.0",
   "type": "module",
   "main": "src/index.js",
@@ -41,8 +41,10 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.15.1",
     "multer": "^2.0.1",
+    "mysql2": "^3.15.0",
     "nodemailer": "^7.0.4",
     "pino-http": "^10.4.0",
+    "serve-index": "^1.9.1",
     "swagger-ui-express": "^5.0.1"
   }
 }
